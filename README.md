@@ -61,7 +61,7 @@ The Team Task Manager is a full-stack web application that allows users to creat
 ##  Live Application
 
 👉 Frontend (Main App):
-https://valiant-fascination.up.railway.app
+https://team-manager-production-a4d6.up.railway.app
 
 👉 Backend (API):
 https://team-manager-task-production.up.railway.app
